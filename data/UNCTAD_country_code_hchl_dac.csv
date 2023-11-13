@@ -1,0 +1,218 @@
+iso3,country.name,un.code,UNCTAD.list,income_HC,dac.code,M49_1,M49_2
+ABW,Aruba,533,Aruba,H_HHC,NA,Americas,Caribbean
+AFG,Afghanistan,4,Afghanistan,L_LHC,625,Asia,Southern Asia
+AGO,Angola,24,Angola,L_NHC,225,Africa,Middle Africa
+ALB,Albania,8,Albania,L_HHC,71,Europe,Southern Europe
+AND,Andorra,20,Andorra,H_NHC,NA,Europe,Southern Europe
+ARE,United Arab Emirates,784,United Arab Emirates,H_NHC,576,Asia,Western Asia
+ARG,Argentina,32,Argentina,L_LHC,425,Americas,South America
+ARM,Armenia,51,Armenia,L_HHC,610,Asia,Western Asia
+ASM,American Samoa,16,American Samoa,L_HHC,NA,Oceania,Polynesia
+ATG,Antigua and Barbuda,28,Antigua and Barbuda,H_HHC,377,Americas,Caribbean
+AUS,Australia,36,Australia,H_LHC,801,Oceania,Australia and New Zealand
+AUT,Austria,40,Austria,H_NHC,1,Europe,Western Europe
+AZE,Azerbaijan,31,Azerbaijan,L_HHC,611,Asia,Western Asia
+AZE,Azerbaijan,31,Azerbaijan,L_HHC,611,Asia,Western Asia
+BDI,Burundi,108,Burundi,L_LHC,228,Africa,Eastern Africa
+BEL,Belgium,56,Belgium,H_NHC,2,Europe,Western Europe
+BEN,Benin,204,Benin,L_LHC,236,Africa,Western Africa
+BFA,Burkina Faso,854,Burkina Faso,L_NHC,287,Africa,Western Africa
+BGD,Bangladesh,50,Bangladesh,L_LHC,666,Asia,Southern Asia
+BGR,Bulgaria,100,Bulgaria,L_LHC,72,Europe,Eastern Europe
+BHR,Bahrain,48,Bahrain,H_NHC,NA,Asia,Western Asia
+BHS,Bahamas,44,Bahamas,H_HHC,NA,Americas,Caribbean
+BIH,Bosnia and Herzegovina,70,Bosnia and Herzegovina,L_LHC,64,Europe,Southern Europe
+BLR,Belarus,112,Belarus,L_NHC,86,Europe,Eastern Europe
+BLZ,Belize,84,Belize,L_HHC,352,Americas,Central America
+BMU,Bermuda,60,Bermuda,H_NHC,NA,Americas,Northern America
+BOL,Bolivia (Plurinational State of),68,Bolivia (Plurinational State of),L_LHC,428,Americas,South America
+BRA,Brazil,76,Brazil,L_LHC,431,Americas,South America
+BRB,Barbados,52,Barbados,H_HHC,NA,Americas,Caribbean
+BRN,Brunei Darussalam,96,Brunei Darussalam,H_HHC,NA,Asia,South-eastern Asia
+BTN,Bhutan,64,Bhutan,L_HHC,630,Asia,Southern Asia
+BWA,Botswana,72,Botswana,L_NHC,227,Africa,Southern Africa
+CAF,Central African Republic,140,Central African Republic,L_NHC,231,Africa,Middle Africa
+CAN,Canada,124,Canada,H_NHC,301,Americas,Northern America
+CHE,"Switzerland, Liechtenstein",757,"Switzerland, Liechtenstein",H_NHC,11,Europe,Western Europe
+CHL,Chile,152,Chile,H_HHC,NA,Americas,South America
+CHN,China,156,China,L_LHC,730,Asia,Eastern Asia
+CIV,C??te d'Ivoire,384,C?te d'Ivoire,L_LHC,247,Africa,Western Africa
+CMR,Cameroon,120,Cameroon,L_LHC,229,Africa,Middle Africa
+COD,Dem. Rep. of the Congo,180,Dem. Rep. of the Congo,L_LHC,235,Africa,Middle Africa
+COG,Congo,178,Congo,L_NHC,234,Africa,Middle Africa
+COL,Colombia,170,Colombia,L_LHC,437,Americas,South America
+COM,Comoros,174,Comoros,L_HHC,233,Africa,Eastern Africa
+CPV,Cabo Verde,132,Cabo Verde,L_HHC,230,Africa,Western Africa
+CRI,Costa Rica,188,Costa Rica,L_HHC,336,Americas,Central America
+CUB,Cuba,192,Cuba,L_HHC,338,Americas,Caribbean
+CUW,Cura??ao,531,Cura?ao,H_HHC,NA,Americas,Caribbean
+CYM,Cayman Islands,136,Cayman Islands,H_HHC,NA,Americas,Caribbean
+CYP,Cyprus,196,Cyprus,H_HHC,30,Asia,Western Asia
+CZE,Czechia,203,Czechia,H_NHC,68,Europe,Eastern Europe
+DEU,Germany,276,Germany,H_NHC,5,Europe,Western Europe
+DJI,Djibouti,262,Djibouti,L_HHC,274,Africa,Eastern Africa
+DMA,Dominica,212,Dominica,L_HHC,378,Americas,Caribbean
+DNK,Denmark,208,Denmark,H_NHC,3,Europe,Northern Europe
+DOM,Dominican Republic,214,Dominican Republic,L_HHC,340,Americas,Caribbean
+DZA,Algeria,12,Algeria,L_LHC,130,Africa,Northern Africa
+DZA,Algeria,12,Algeria,L_LHC,130,Africa,Northern Africa
+ECU,Ecuador,218,Ecuador,L_HHC,440,Americas,South America
+EGY,Egypt,818,Egypt,L_LHC,142,Africa,Northern Africa
+ERI,Eritrea,232,Eritrea,L_HHC,271,Africa,Eastern Africa
+ESP,Spain,724,Spain,H_HHC,50,Europe,Southern Europe
+EST,Estonia,233,Estonia,H_NHC,82,Europe,Northern Europe
+ETH,Ethiopia,231,Ethiopia,L_HHC,238,Africa,Eastern Africa
+FIN,Finland,246,Finland,H_NHC,18,Europe,Northern Europe
+FJI,Fiji,242,Fiji,L_HHC,832,Oceania,Melanesia
+FRA,France,251,France,H_LHC,4,Europe,Western Europe
+FRO,Faroe Islands,234,Faroe Islands,H_NHC,NA,Europe,Northern Europe
+FSM,Micronesia (Federated States of),583,Micronesia (Federated States of),L_HHC,860,Oceania,Micronesia
+GAB,Gabon,266,Gabon,L_NHC,239,Africa,Middle Africa
+GBR,United Kingdom,826,United Kingdom,H_NHC,12,Europe,Northern Europe
+GEO,Georgia,268,Georgia,L_HHC,612,Asia,Western Asia
+GHA,Ghana,288,Ghana,L_LHC,241,Africa,Western Africa
+GIB,Gibraltar,292,Gibraltar,H_HHC,NA,Europe,Southern Europe
+GIN,Guinea,324,Guinea,L_LHC,243,Africa,Western Africa
+GMB,Gambia,270,Gambia,L_NHC,240,Africa,Western Africa
+GNB,Guinea-Bissau,624,Guinea-Bissau,L_NHC,244,Africa,Western Africa
+GNQ,Equatorial Guinea,226,Equatorial Guinea,L_LHC,245,Africa,Middle Africa
+GRC,Greece,300,Greece,H_HHC,40,Europe,Southern Europe
+GRD,Grenada,308,Grenada,L_HHC,381,Americas,Caribbean
+GRL,Greenland,304,Greenland,H_NHC,NA,Americas,Northern America
+GTM,Guatemala,320,Guatemala,L_HHC,347,Americas,Central America
+GUM,Guam,316,Guam,H_HHC,NA,Oceania,Micronesia
+GUY,Guyana,328,Guyana,L_NHC,446,Americas,South America
+HND,Honduras,340,Honduras,L_HHC,351,Americas,Central America
+HRV,Croatia,191,Croatia,H_LHC,62,Europe,Southern Europe
+HTI,Haiti,332,Haiti,L_HHC,349,Americas,Caribbean
+HUN,Hungary,348,Hungary,H_NHC,75,Europe,Eastern Europe
+IDN,Indonesia,360,Indonesia,L_HHC,738,Asia,South-eastern Asia
+IND,India,699,India,L_LHC,645,Asia,Southern Asia
+IRL,Ireland,372,Ireland,H_NHC,21,Europe,Northern Europe
+IRN,Iran (Islamic Republic of),364,Iran (Islamic Republic of),L_LHC,540,Asia,Southern Asia
+IRQ,Iraq,368,Iraq,L_LHC,543,Asia,Western Asia
+IRQ,Iraq,368,Iraq,L_LHC,543,Asia,Western Asia
+ISL,Iceland,352,Iceland,H_NHC,20,Europe,Northern Europe
+ISR,Israel,376,Israel,H_LHC,546,Asia,Western Asia
+ITA,Italy,380,Italy,H_HHC,6,Europe,Southern Europe
+JAM,Jamaica,388,Jamaica,L_HHC,354,Americas,Caribbean
+JOR,Jordan,400,Jordan,L_LHC,549,Asia,Western Asia
+JPN,Japan,392,Japan,H_HHC,701,Asia,Eastern Asia
+KAZ,Kazakhstan,398,Kazakhstan,L_LHC,613,Asia,Central Asia
+KAZ,Kazakhstan,398,Kazakhstan,L_LHC,613,Asia,Central Asia
+KEN,Kenya,404,Kenya,L_LHC,248,Africa,Eastern Africa
+KGZ,Kyrgyzstan,417,Kyrgyzstan,L_HHC,614,Asia,Central Asia
+KHM,Cambodia,116,Cambodia,L_HHC,728,Asia,South-eastern Asia
+KIR,Kiribati,296,Kiribati,L_HHC,836,Oceania,Micronesia
+KNA,Saint Kitts and Nevis,659,Saint Kitts and Nevis,H_HHC,NA,Americas,Caribbean
+KOR,"Korea, Republic of",410,"Korea, Republic of",H_LHC,742,Asia,Eastern Asia
+KWT,Kuwait,414,Kuwait,H_NHC,552,Asia,Western Asia
+LAO,Lao People's Dem. Rep.,418,Lao People's Dem. Rep.,L_HHC,745,Asia,South-eastern Asia
+LBN,Lebanon,422,Lebanon,L_HHC,555,Asia,Western Asia
+LBR,Liberia,430,Liberia,L_HHC,251,Africa,Western Africa
+LBY,Libya,434,Libya,L_LHC,133,Africa,Northern Africa
+LBY,Libya,434,Libya,L_LHC,133,Africa,Northern Africa
+LCA,Saint Lucia,662,Saint Lucia,L_HHC,383,Americas,Caribbean
+LKA,Sri Lanka,144,Sri Lanka,L_HHC,640,Asia,Southern Asia
+LSO,Lesotho,426,Lesotho,L_NHC,249,Africa,Southern Africa
+LTU,Lithuania,440,Lithuania,H_NHC,84,Europe,Northern Europe
+LUX,Luxembourg,442,Luxembourg,H_NHC,22,Europe,Western Europe
+LVA,Latvia,428,Latvia,H_NHC,83,Europe,Northern Europe
+MAR,Morocco,504,Morocco,L_HHC,136,Africa,Northern Africa
+MDA,Republic of Moldova,498,Republic of Moldova,L_NHC,93,Europe,Eastern Europe
+MDG,Madagascar,450,Madagascar,L_HHC,252,Africa,Eastern Africa
+MDV,Maldives,462,Maldives,L_NHC,655,Asia,Southern Asia
+MEX,Mexico,484,Mexico,L_HHC,358,Americas,Central America
+MEX,Mexico,484,Mexico,L_HHC,358,Americas,Central America
+MHL,Marshall Islands,584,Marshall Islands,L_LHC,859,Oceania,Micronesia
+MKD,North Macedonia,807,North Macedonia,L_LHC,66,Europe,Southern Europe
+MLI,Mali,466,Mali,L_NHC,255,Africa,Western Africa
+MLT,Malta,470,Malta,H_HHC,45,Europe,Southern Europe
+MMR,Myanmar,104,Myanmar,L_HHC,635,Asia,South-eastern Asia
+MNE,Montenegro,499,Montenegro,L_LHC,65,Europe,Southern Europe
+MNG,Mongolia,496,Mongolia,L_NHC,753,Asia,Eastern Asia
+MNP,Northern Mariana Islands,580,Northern Mariana Islands,H_HHC,NA,Oceania,Micronesia
+MOZ,Mozambique,508,Mozambique,L_LHC,259,Africa,Eastern Africa
+MRT,Mauritania,478,Mauritania,L_NHC,256,Africa,Western Africa
+MUS,Mauritius,480,Mauritius,L_HHC,257,Africa,Eastern Africa
+MWI,Malawi,454,Malawi,L_LHC,253,Africa,Eastern Africa
+MYS,Malaysia,458,Malaysia,L_HHC,751,Asia,South-eastern Asia
+NAM,Namibia,516,Namibia,L_LHC,275,Africa,Southern Africa
+NCL,New Caledonia,540,New Caledonia,H_HHC,NA,Oceania,Melanesia
+NER,Niger,562,Niger,L_NHC,260,Africa,Western Africa
+NGA,Nigeria,566,Nigeria,L_LHC,261,Africa,Western Africa
+NIC,Nicaragua,558,Nicaragua,L_HHC,364,Americas,Central America
+NLD,Netherlands,528,Netherlands,H_NHC,7,Europe,Western Europe
+NOR,Norway,579,Norway,H_NHC,8,Europe,Northern Europe
+NPL,Nepal,524,Nepal,L_HHC,660,Asia,Southern Asia
+NRU,Nauru,520,Nauru,L_HHC,845,Oceania,Micronesia
+NZL,New Zealand,554,New Zealand,H_HHC,820,Oceania,Australia and New Zealand
+OMN,Oman,512,Oman,H_LHC,NA,Asia,Western Asia
+PAK,Pakistan,586,Pakistan,L_LHC,665,Asia,Southern Asia
+PAN,Panama,591,Panama,H_HHC,366,Americas,Central America
+PER,Peru,604,Peru,L_LHC,454,Americas,South America
+PHL,Philippines,608,Philippines,L_HHC,755,Asia,South-eastern Asia
+PLW,Palau,585,Palau,H_HHC,861,Oceania,Micronesia
+PNG,Papua New Guinea,598,Papua New Guinea,L_LHC,862,Oceania,Melanesia
+POL,Poland,616,Poland,H_NHC,76,Europe,Eastern Europe
+PRK,"Korea, Dem. People's Rep. of",408,"Korea, Dem. People's Rep. of",L_NHC,740,Asia,Eastern Asia
+PRT,Portugal,620,Portugal,H_HHC,9,Europe,Southern Europe
+PRY,Paraguay,600,Paraguay,L_LHC,451,Americas,South America
+PSE,State of Palestine,275,State of Palestine,L_HHC,550,Asia,Western Asia
+PYF,French Polynesia,258,French Polynesia,H_HHC,NA,Oceania,Polynesia
+QAT,Qatar,634,Qatar,H_NHC,561,Asia,Western Asia
+ROU,Romania,642,Romania,L_NHC,77,Europe,Eastern Europe
+RUS,Russian Federation,643,Russian Federation,L_LHC,87,Europe,Eastern Europe
+RWA,Rwanda,646,Rwanda,L_LHC,266,Africa,Eastern Africa
+SAU,Saudi Arabia,682,Saudi Arabia,H_LHC,566,Asia,Western Asia
+SDN,Sudan,729,Sudan,L_LHC,278,Africa,Northern Africa
+SEN,Senegal,686,Senegal,L_NHC,269,Africa,Western Africa
+SGP,Singapore,702,Singapore,H_HHC,NA,Asia,South-eastern Asia
+SLB,Solomon Islands,90,Solomon Islands,L_HHC,866,Oceania,Melanesia
+SLE,Sierra Leone,694,Sierra Leone,L_HHC,272,Africa,Western Africa
+SLV,El Salvador,222,El Salvador,L_HHC,342,Americas,Central America
+SMR,San Marino,674,San Marino,H_HHC,NA,Europe,Southern Europe
+SOM,Somalia,706,Somalia,L_HHC,273,Africa,Eastern Africa
+SRB,Serbia,688,Serbia,L_NHC,63,Europe,Southern Europe
+SSD,South Sudan,728,South Sudan,L_LHC,279,Africa,Eastern Africa
+STP,Sao Tome and Principe,678,Sao Tome and Principe,L_HHC,268,Africa,Middle Africa
+SUR,Suriname,740,Suriname,L_NHC,457,Americas,South America
+SVK,Slovakia,703,Slovakia,H_NHC,69,Europe,Eastern Europe
+SVN,Slovenia,705,Slovenia,H_LHC,61,Europe,Southern Europe
+SWE,Sweden,752,Sweden,H_NHC,10,Europe,Northern Europe
+SWZ,Eswatini,748,Eswatini,L_HHC,280,Africa,Southern Africa
+SXM,Sint Maarten (Dutch part),534,Sint Maarten (Dutch part),H_HHC,NA,Americas,Caribbean
+SYC,Seychelles,690,Seychelles,H_HHC,NA,Africa,Eastern Africa
+SYR,Syrian Arab Republic,760,Syrian Arab Republic,L_LHC,573,Asia,Western Asia
+TCA,Turks and Caicos Islands,796,Turks and Caicos Islands,H_LHC,NA,Americas,Caribbean
+TCD,Chad,148,Chad,L_NHC,232,Africa,Middle Africa
+TGO,Togo,768,Togo,L_LHC,283,Africa,Western Africa
+THA,Thailand,764,Thailand,L_HHC,764,Asia,South-eastern Asia
+THA,Thailand,764,Thailand,L_HHC,764,Asia,South-eastern Asia
+TJK,Tajikistan,762,Tajikistan,L_HHC,615,Asia,Central Asia
+TKM,Turkmenistan,795,Turkmenistan,L_LHC,616,Asia,Central Asia
+TLS,Timor-Leste,626,Timor-Leste,L_HHC,765,Asia,South-eastern Asia
+TLS,Timor-Leste,626,Timor-Leste,L_HHC,765,Asia,South-eastern Asia
+TON,Tonga,776,Tonga,L_HHC,870,Oceania,Polynesia
+TTO,Trinidad and Tobago,780,Trinidad and Tobago,H_NHC,NA,Americas,Caribbean
+TUN,Tunisia,788,Tunisia,L_HHC,139,Africa,Northern Africa
+TUR,Turkey,792,Turkey,L_HHC,55,Asia,Western Asia
+TUR,Turkey,792,Turkey,L_HHC,55,Asia,Western Asia
+TUV,Tuvalu,798,Tuvalu,L_LHC,872,Oceania,Polynesia
+TWN,"China, Taiwan Province of",158,"China, Taiwan Province of",H_LHC,732,Asia,Eastern Asia
+TZA,United Republic of Tanzania,834,United Republic of Tanzania,L_LHC,282,Africa,Eastern Africa
+UGA,Uganda,800,Uganda,L_LHC,285,Africa,Eastern Africa
+UKR,Ukraine,804,Ukraine,L_NHC,85,Europe,Eastern Europe
+URY,Uruguay,858,Uruguay,H_LHC,NA,Americas,South America
+USA,United States of America,842,United States of America,H_LHC,302,Americas,Northern America
+UZB,Uzbekistan,860,Uzbekistan,L_LHC,617,Asia,Central Asia
+VCT,Saint Vincent and the Grenadines,670,Saint Vincent and the Grenadines,L_HHC,384,Americas,Caribbean
+VEN,Venezuela (Bolivarian Rep. of),862,Venezuela (Bolivarian Rep. of),L_LHC,463,Americas,South America
+VGB,British Virgin Islands,92,British Virgin Islands,H_HHC,NA,Americas,Caribbean
+VNM,Viet Nam,704,Viet Nam,L_HHC,769,Asia,South-eastern Asia
+VUT,Vanuatu,548,Vanuatu,L_HHC,854,Oceania,Melanesia
+WSM,Samoa,882,Samoa,L_HHC,880,Oceania,Polynesia
+YEM,Yemen,887,Yemen,L_HHC,580,Asia,Western Asia
+ZAF,South Africa,710,South Africa,L_LHC,218,Africa,Southern Africa
+ZMB,Zambia,894,Zambia,L_LHC,288,Africa,Eastern Africa
+ZWE,Zimbabwe,716,Zimbabwe,L_LHC,265,Africa,Eastern Africa
