@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # community-detection
 
 ## Code
@@ -12,7 +6,7 @@ editor_options:
 
 -   1_getdata_ODA.R
 -   2_make_edgelist_ODA.R
--   3_makenetworks_ODA.R
+-   3_runcommunitydetection_ODA.R
 
 ### Merch
 
